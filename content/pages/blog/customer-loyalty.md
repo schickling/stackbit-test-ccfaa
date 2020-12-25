@@ -8,7 +8,7 @@ excerpt: >-
 date: '2019-04-23'
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
-image: images/3.jpg
+image: images/Frame 9.png
 image_alt: A group of people working in a cafe
 layout: post
 ---
